@@ -1,0 +1,14 @@
+ * This contents file was created with the free trial version of HelpScribble 6.3.2
+ * Help files created with the free trial version must not be distributed.
+
+:BASE fire.hlp
+:TITLE Firewall
+1 Introduction
+2 Introduction=Scribble10>new
+2 Firewall Protection=Scribble20
+2 How does it works ?=Scribble30
+1 Navigating NetKeeper
+2 Main Window=Scribble60
+2 Add Rules=Scribble70
+2 Port Scanner=Scribble120
+2 Main Screen=Scribble130
